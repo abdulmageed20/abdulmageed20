@@ -42,3 +42,4 @@ Building stronger expertise in:
 - CDC Verification
 - RISC-V Architectures
 - FPGA Timing and Implementation
+- **Graduation Project:** RV32IC Microcontroller SoC — CPU, AHB-Lite/Wishbone fabric, SRAM/ROM, QSPI memory, UART/GPIO/timer/SPI/watchdog, FPGA prototyping, and Sky130 ASIC implementation through DRC/LVS/STA and tapeout
