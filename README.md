@@ -66,15 +66,6 @@ Synchronous FIFO verification with assertions, constrained-random stimulus, scor
 
 ---
 
-## GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdulmageed20&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmageed20&layout=compact&hide_border=true&langs_count=8" alt="Top languages">
-</p>
-
----
-
 ## Engineering Interests
 
 **Digital Design · RTL Verification · UVM · RISC-V · AMBA · CDC · FPGA · ASIC / SoC Flow**
